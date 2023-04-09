@@ -3,7 +3,7 @@
 
 ## Quick Start
 Import The Database.sql File In Your PHPMYADMIN
-Edit Your Configurations in config/Database.php File
+And Edit Your Configurations in config/Database.php File
 
 ## App Info
 
